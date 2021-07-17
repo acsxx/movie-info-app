@@ -1,2 +1,2 @@
-# movie-info-app
- Movie content application with ReactJS
+# react-tmdb-api-test
+ react app
